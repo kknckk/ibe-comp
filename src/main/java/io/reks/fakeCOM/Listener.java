@@ -1,4 +1,4 @@
-package io.reks;
+package io.reks.fakeCOM;
 
 import com.fazecast.jSerialComm.SerialPort;
 import com.fazecast.jSerialComm.SerialPortDataListener;

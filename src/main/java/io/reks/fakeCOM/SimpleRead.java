@@ -1,4 +1,4 @@
-package io.reks;
+package io.reks.fakeCOM;
 
 import java.io.*;
 import java.util.*;

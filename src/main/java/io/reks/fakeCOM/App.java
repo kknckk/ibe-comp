@@ -1,4 +1,4 @@
-package io.reks;
+package io.reks.fakeCOM;
 
 import org.apache.log4j.Logger;
 import org.joda.time.LocalDate;
